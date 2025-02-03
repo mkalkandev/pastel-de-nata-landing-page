@@ -16,7 +16,7 @@ Contents
 
 # Project URL
 
-The project is published at: [References Grid Section Main](https://mkalkandev.github.io/pastel-de-nata-landing-page/)
+The project is published at: [References Pastel de Nata Landing Page](https://mkalkandev.github.io/pastel-de-nata-landing-page/)
 
 # Features
 
